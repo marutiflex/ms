@@ -137,6 +137,7 @@ function mfSelectOPerate(id) {
             .mfSelectDiv .mfSelectContainer .optionsmfSelect label input {
                 margin-right: 8px;
                 accent-color:#3b82f6;
+                width:fit-content;
             }
             .mfSelectActions {
                 margin-top: 15px;
